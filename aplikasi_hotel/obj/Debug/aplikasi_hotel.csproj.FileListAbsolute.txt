@@ -1,0 +1,25 @@
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.exe
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.pdb
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.hotel.resources
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.exe
+c:\users\pc\documents\visual studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Help.resources
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.exe.config
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.exe
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.pdb
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.exe
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.pdb
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.csprojResolveAssemblyReference.cache
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Form1.resources
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Help.resources
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.hotel.resources
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.Properties.Resources.resources
+C:\Users\wowo\Documents\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.csproj.GenerateResource.Cache
+C:\Users\wowo\Documents\Visual Studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\bin\Debug\aplikasi_hotel.exe.config
+C:\Users\wowo\Documents\Visual Studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.exe
+C:\Users\wowo\Documents\Visual Studio 2012\Projects\aplikasi_hotel\aplikasi_hotel\obj\Debug\aplikasi_hotel.pdb
